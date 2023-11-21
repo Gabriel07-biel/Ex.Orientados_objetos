@@ -9,6 +9,7 @@
     <h1>Testa classe Adulto</h1>
 
     <?php
+   include "ex124-a.php";
     
 
     $adulto1 = new Adulto();
